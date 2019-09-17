@@ -2,3 +2,8 @@
 	path = lekaizen210/addons_cnce
 	url = git@github.com:lekaizen210/addons_cnce.git
 	branch = master
+
+[submodule "lekaizen210/addons_cnce_V1"]
+	path = lekaizen210/addons_cnce_V1
+	url = git@github.com:lekaizen210/addons_cnce.git
+	branch = v1
